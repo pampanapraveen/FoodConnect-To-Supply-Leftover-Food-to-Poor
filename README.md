@@ -3,6 +3,7 @@
 
 Watch the demo video [here](https://drive.google.com/file/d/1kpXndSnu7L2jpXmfva0OBzScDG0iz3c-/view?usp=sharing)
 
+Details about FoodConnect Project:
 
 FoodConnect – Salesforce CRM Project
 Connecting leftover food donors to needy communities efficiently.
